@@ -3,5 +3,5 @@ function abrirCalculoUbicacion() {
 }
 
 function abrirDimensionSistema() {
-    window.location.href = "dimension_sistema.html";
+    window.location.href = "https://energia24-7.github.io/calc2/";
 }
